@@ -1,0 +1,10 @@
+Striker1 --> models of 1vs0
+Striker 2 --> models of 1vs1
+Striker3 --> models of 2vs2
+Striker4 --> models of 4vs4
+Striker 5 --> models of 5vs5
+
+BROTNS --> ball reward, observation of team, varied(new) spawn
+big is bigger YAML and bigger is biggest YAML in 5vs5
+
+provacurr (tests with curriculum rewards) --> from Striker2
